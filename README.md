@@ -1,5 +1,5 @@
 # Personal Information 
-Hello Everybody!!! My name is Jake Fabrizio and I am a dual major majoring in Cybersecurity and Data Science at UNC Charlotte. This space will serve as a library for all of the past present, and future projects I work on :) 👋
+Hello Everybody!!! My name is Jake Fabrizio and I am a dual major majoring in Cybersecurity and Data Science at UNC Charlotte. I am also working towards a masters degree in Cybersecurity. This space will serve as a library for all of the past present, and future projects I work on :) 👋
 
 <!--
 **Jakefab245/Jakefab245** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
